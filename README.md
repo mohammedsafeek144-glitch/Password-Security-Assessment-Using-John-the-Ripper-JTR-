@@ -1,4 +1,3 @@
-
 # 🔐 Week 03 – Cybersecurity Internship
 ## Password Security Assessment Using John the Ripper (JTR)
 
@@ -56,7 +55,7 @@ The following screenshots demonstrate the different stages of my practical passw
 
 ## 1. PDF Password Hash Extraction
 
-![PDF Hash Extraction](assets/pdf-hash-extraction-redacted.jpg)
+<img width="1229" height="591" alt="1st pdf password carck" src="https://github.com/user-attachments/assets/2d1e8e11-fc00-4efe-b5db-248c965ea07d" />
 
 **Description:**
 
@@ -78,7 +77,8 @@ I learned that password hashes are different from original passwords and that ha
 
 ## 2. Password Security Assessment – Screenshot 1
 
-![Password Audit Result 1](assets/password-audit-result-1-redacted.jpg)
+<img width="625" height="793" alt="1st pfd open " src="https://github.com/user-attachments/assets/b460d439-d420-4a80-8896-1a9cb74ddf62" />
+
 
 **Description:**
 
@@ -104,7 +104,7 @@ Understanding the interface and ensuring that the correct hash information was p
 
 ## 3. Password Security Assessment – Screenshot 2
 
-![Password Audit Result 2](assets/password-audit-result-2-redacted.jpg)
+<img width="925" height="587" alt="2nd pdf password carck" src="https://github.com/user-attachments/assets/088c1794-eab0-4484-8fe3-d1a5419a4b3c" />
 
 **Description:**
 
@@ -130,7 +130,7 @@ Understanding the relationship between password complexity and the effectiveness
 
 ## 4. Password Security Assessment – Screenshot 3
 
-![Password Audit Result 3](assets/password-audit-result-3-redacted.jpg)
+<img width="1073" height="610" alt="2nd pdf open " src="https://github.com/user-attachments/assets/0b5f21eb-5315-462d-a613-b6ea88382a13" />
 
 **Description:**
 
@@ -156,7 +156,8 @@ Interpreting the assessment results and understanding the importance of using st
 
 ## 5. Password-Protected PDF Document
 
-![Locked PDF](assets/locked-pdf-illustration.jpg)
+<img width="1055" height="633" alt="3rd pdf password carck" src="https://github.com/user-attachments/assets/be62263d-2f49-41f1-88a6-94ccc9f4acc9" />
+
 
 **Description:**
 
@@ -180,7 +181,8 @@ I also learned that the effectiveness of password protection depends significant
 
 ## 6. Practical Challenge Completion Evidence
 
-![CTF Completion](assets/ctf-completion-flag-redacted.jpg)
+<img width="698" height="561" alt="3rd pdf open " src="https://github.com/user-attachments/assets/d135a9f5-b8ab-4f16-ba6c-ee6ee817fb4a" />
+
 
 **Description:**
 
@@ -204,7 +206,7 @@ I learned the importance of practical cybersecurity exercises in improving analy
 
 ## 7. Internship Completion Certificate
 
-![Completion Certificate](assets/completion-certificate-redacted.jpg)
+<img width="1249" height="615" alt="Hash carck" src="https://github.com/user-attachments/assets/94269922-5d68-4c19-b42e-0626463848b8" />
 
 **Description:**
 
